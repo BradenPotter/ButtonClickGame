@@ -1,0 +1,27 @@
+.gameItem {
+    width: 5vh;
+    height: 2.81vw;
+    background-color: hsl(243, 100%, 24%);
+    color: white;
+}
+
+#button {
+    position: absolute;
+}
+
+#score {
+    font-size: 32px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.container {
+    height: 75vh;
+    width: 42.1875vw;
+    top: 12.5vh;
+    left: 28.9vw;
+    right: 0;
+    bottom: 0;
+    position:absolute;
+    border: 2px solid black;
+}
